@@ -1,11 +1,11 @@
 # Change to your own name
-site_name: My Research Page
+site_name: Evan Davies-Velie's Research Website
 # Change to your own site
-site_url: https://steob92.github.io/mcgill-tutorial/ # must have the trailing slash
-site_author: Your Name (stephan.obrien@mcgill.ca)
-site_description: Research site for Your Name 
+site_url: https://evandv.github.io/physics/ # must have the trailing slash
+site_author: Evan Davies-Velie (evan.davies-velie@mail.mcgill.ca)
+site_description: Research site for Evan Davies-Velie 
 copyright: > # should remain a link to the original theme
-  &copy; 2023 Your Name <br>
+  &copy; 2023 Evan Davies-Velie <br>
   <a href="https://github.com/vuquangtrong/mkdocs-material-blog">Blog Theme</a> /
   <a href="https://squidfunk.github.io/mkdocs-material/">Material for MkDocs</a>
 
@@ -51,7 +51,7 @@ extra_javascript:
   - javascripts/mathjax.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
-
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
 
 # For describing the navigation panel
 nav:
@@ -64,6 +64,10 @@ nav:
 markdown_extensions:
   - attr_list   # For adding attributes such as right/left align to images
   - md_in_html  # Using Figures
+  - pymdownx.arithmatex:
+      generic: true
+
+
 
 
 
