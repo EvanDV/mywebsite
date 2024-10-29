@@ -1,51 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://steob92.github.io/mcgill-tutorial/</loc>
-         <lastmod>2024-10-25</lastmod>
+         <loc>https://evandv.github.io/physics/</loc>
+         <lastmod>2024-10-29</lastmod>
     </url>
     <url>
-         <loc>https://steob92.github.io/mcgill-tutorial/about/</loc>
-         <lastmod>2024-10-25</lastmod>
+         <loc>https://evandv.github.io/physics/about/</loc>
+         <lastmod>2024-10-29</lastmod>
     </url>
     <url>
-         <loc>https://steob92.github.io/mcgill-tutorial/about/cooking/</loc>
-         <lastmod>2024-10-25</lastmod>
+         <loc>https://evandv.github.io/physics/projects/</loc>
+         <lastmod>2024-10-29</lastmod>
     </url>
     <url>
-         <loc>https://steob92.github.io/mcgill-tutorial/about/cycling/</loc>
-         <lastmod>2024-10-25</lastmod>
+         <loc>https://evandv.github.io/physics/projects/python_project/WWZ/</loc>
+         <lastmod>2024-10-29</lastmod>
     </url>
     <url>
-         <loc>https://steob92.github.io/mcgill-tutorial/about/fishing/</loc>
-         <lastmod>2024-10-25</lastmod>
+         <loc>https://evandv.github.io/physics/reasearch/</loc>
+         <lastmod>2024-10-29</lastmod>
     </url>
     <url>
-         <loc>https://steob92.github.io/mcgill-tutorial/projects/</loc>
-         <lastmod>2024-10-25</lastmod>
+         <loc>https://evandv.github.io/physics/reasearch/all_publications/</loc>
+         <lastmod>2024-10-29</lastmod>
     </url>
     <url>
-         <loc>https://steob92.github.io/mcgill-tutorial/projects/data_project/</loc>
-         <lastmod>2024-10-25</lastmod>
+         <loc>https://evandv.github.io/physics/reasearch/highlights/awesome_paper/</loc>
+         <lastmod>2024-10-29</lastmod>
     </url>
     <url>
-         <loc>https://steob92.github.io/mcgill-tutorial/projects/python_project/python_project/</loc>
-         <lastmod>2024-10-25</lastmod>
-    </url>
-    <url>
-         <loc>https://steob92.github.io/mcgill-tutorial/reasearch/</loc>
-         <lastmod>2024-10-25</lastmod>
-    </url>
-    <url>
-         <loc>https://steob92.github.io/mcgill-tutorial/reasearch/all_publications/</loc>
-         <lastmod>2024-10-25</lastmod>
-    </url>
-    <url>
-         <loc>https://steob92.github.io/mcgill-tutorial/reasearch/highlights/awesome_paper/</loc>
-         <lastmod>2024-10-25</lastmod>
-    </url>
-    <url>
-         <loc>https://steob92.github.io/mcgill-tutorial/reasearch/highlights/large_mwl_paper/</loc>
-         <lastmod>2024-10-25</lastmod>
+         <loc>https://evandv.github.io/physics/reasearch/highlights/large_mwl_paper/</loc>
+         <lastmod>2024-10-29</lastmod>
     </url>
 </urlset>
