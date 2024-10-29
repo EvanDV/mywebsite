@@ -1,7 +1,7 @@
 # Welcome to My Research Page
 
 
-![Coma cluster](./media/headshot.jpg "Me!"){align="left": style="height:150;width:150px"}
+![Me](./media/headshot.jpg "Me!"){align="left": style="height:150;width:150px"}
 Welcome! My name is Evan Davies-Velie, I am a first-year Master's student at McGill University as a part of the [McGill Cosmology Instrumentation Laboratory](https://sites.google.com/a/mcgillcosmology.ca/mcgillcosmology/) led by Professor [Matt Dobbs](https://sites.google.com/a/mcgillcosmology.ca/mcgillcosmology/matt-dobbs). 
 
 My research focuses on analyzing Fast Radio Bursts (FRBs) — powerful, millisecond-long radio pulses from deep in the universe whose origins remain largely unknown. These bursts are thought to originate from highly energetic astrophysical phenomena. I am interested in how we can use FRBs as cosmological probes to learn more about the history, evolution, and composition of the universe.
