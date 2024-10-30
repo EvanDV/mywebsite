@@ -1,12 +1,15 @@
 # Introduction
+My name is Evan Davies-Velie, I am a radio astronomer focussed on both data analysis and instrumentation. 
 
-During my undergraduate studies as a Joint Honours Physics and Computer Science student at McGill University, I had the opportunity to work with data from the Canadian Hydrogen Intensity Mapping Experiment (CHIME) under the guidance of Matt Dobbs and Dallas Wulf. My primary research focused on developing an automated pipeline to detect specific variability signatures in blazars, a subclass of Active Galactic Nuclei (AGN). I was particularly interested in searching for quasi-periodic oscillations (QPOs), which have been reported across a range of frequencies in AGN time series data. Leveraging CHIME's unique observational capabilities, I analyzed short-term variations across a large catalogue of blazars to gain insights into the structure and dynamics of AGN.
+I completed my B.Sc. in Joint Honours Physics and Computer Science at McGill University. During my undergraduate studies I had the opportunity to work with data from the Canadian Hydrogen Intensity Mapping Experiment (CHIME). You can find more about my projects involing CHIME [here](../reasearch/index.md).
 
-To conduct this research, I implemented custom versions of the Lomb-Scargle Periodogram and the Weighted Wavelet Z-Transform. I applied Monte Carlo techniques to evaluate the significance of detected periodicities, modeling blazar light curves as autoregressive processes. Additionally, I optimized my pipeline to run on large compute clusters by implementing parallelization techniques. This work has led to a forthcoming coauthored paper with Dallas Wulf.
-
-Beyond blazar analysis, I have contributed to the Canadian Hydrogen Observatory and Radio-transient Detector (CHORD) project by analyzing system temperatures of the Deep Dish Development Array (D3A) and undertaking other data analysis tasks. This hands-on experience has deepened my understanding of radio telescope instrumentation and data handling, which is crucial for both future instrumentation projects and data analysis.
+I have also contributed to the Canadian Hydrogen Observatory and Radio-transient Detector (CHORD) by analyzing system temperatures of the Deep Dish Development Array (D3A). To analyze data from this prototype telescope, I had to work with extremely low level data. This hands-on experience has deepened my understanding of radio telescope instrumentation and data handling, which is crucial for both future instrumentation projects and data analysis.
 
 These experiences have solidified my commitment to advancing research in radio astronomy, particularly in the context of cutting-edge Canadian instruments like CHIME and CHORD. I am excited to continue my journey in this field, contributing to the development and science operations of these pioneering telescopes.
+
+Through my TAing experiences during my undergraduate and as a graduate student I have found a passion for teaching. I would like to go on to earn my PhD and eventually become a professor. As a graduate student, I am looking forward to further developing my teaching and communication skills.
+
+Beyond physics I am very interested in music. I love searching for niche songs and undiscovered artists. I compile these in playlists that you can view on my [Spotify](https://open.spotify.com/user/4p840o2nt3xrolnxyo79oh7eb?si=1668305cd5f54542). I plan to volunteer at the CKUT and hopefully get my own show eventually! 
 
 
 # CV

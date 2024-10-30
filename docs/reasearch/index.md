@@ -1,12 +1,13 @@
 # Research Interests
+My research interests are in the realm of radio astronomy. I am interested in the intersection of data analysis and instrumentation. Currently I am focussed on using FRBs as cosmological probes as well as comissioning the upcoming CHORD radio telescope. More details are provided below. 
 
+# Projects 
 ### Canadian Hydrogen Intensity Mapping Experiment (CHIME)  
 **Blazar Analysis, 2023–Present**  
 *Supervisors: Matt Dobbs and Dallas Wulf*
 
-My work with CHIME initially centered on point source analysis of blazars — highly energetic Active Galactic Nuclei (AGN) that often display significant variability, including quasi-periodic oscillations (QPOs). I led the development of an automated pipeline to detect variability signatures in a large catalog of blazars, leveraging CHIME’s broad sky coverage to provide insights into AGN dynamics and emission mechanisms. In this project, I implemented the Lomb-Scargle Periodogram and Weighted Wavelet Z-Transform from scratch, demonstrating proficiency in Python programming and signal analysis. Additionally, I employed Monte Carlo methods to quantify the significance of dominant periods, modeling blazar light curves as autoregressive processes and refining my parallelization skills to handle the dataset efficiently on compute clusters. Currently, I am co-authoring a paper on blazar variability analysis with Dallas Wulf
-
-Recently, I have shifted my focus to FRB (Fast Radio Burst) science, using CHIME’s unique capabilities to investigate these transient, millisecond-long signals from deep in the universe. I am interested in using FRBs as cosmological probes, specifically, I would like to use them to constrain the epoch of helium reionization. 
+My work with CHIME initially centered on point source analysis of blazars — highly energetic Active Galactic Nuclei (AGN) that often display significant variability, including quasi-periodic oscillations (QPOs). I led the development of an automated pipeline to detect variability signatures in a large catalog of blazars, leveraging CHIME’s broad sky coverage to provide insights into AGN dynamics and emission mechanisms. In this project, I implemented the Lomb-Scargle Periodogram and Weighted Wavelet Z-Transform from scratch, demonstrating proficiency in Python programming and signal analysis. Additionally, I employed Monte Carlo methods to quantify the significance of dominant periods, modeling blazar light curves as autoregressive processes and refining my parallelization skills to handle the dataset efficiently on compute clusters. Currently, I am co-authoring a paper on blazar variability analysis with Dallas Wulf. For details on this project you can check out the presentation I gave to the CHIME collaboration [here](../projects/presentation.md)
+ 
 
 **FRB Analysis 2024-Present**   
 *Supervisor: Matt Dobbs*

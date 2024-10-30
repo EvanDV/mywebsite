@@ -11,7 +11,7 @@ Currently, I work with [CHIME](https://chime-experiment.ca/en) (the Canadian Hyd
 Thank you for visiting, and feel free to explore more about my journey in radio astronomy!
 
 
-If you're like to learn more about me, you can find an introduction to [my research](./reasearch/research_index.md), some info on some [recent projects](./projects/project_index.md) and some more info [about me](./about/about.md).
+If you're like to learn more about me, you can find an introduction to [my research](./reasearch/index.md), some info on some [recent projects](./projects/index.md) and some more info [about me](./about/index.md).
 
 
 

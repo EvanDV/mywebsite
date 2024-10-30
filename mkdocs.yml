@@ -1,7 +1,7 @@
 # Change to your own name
 site_name: Evan Davies-Velie's Research Website
 # Change to your own site
-site_url: https://evandv.github.io/physics/ # must have the trailing slash
+site_url: https://EvanDV.github.io/physics/ # must have the trailing slash
 site_author: Evan Davies-Velie (evan.davies-velie@mail.mcgill.ca)
 site_description: Research site for Evan Davies-Velie 
 copyright: > # should remain a link to the original theme
@@ -58,7 +58,9 @@ nav:
   - Home: index.md
   - About Me: about/index.md
   - Research: reasearch/index.md
+  - Publications: publications/index.md
   - Projects: projects/index.md
+  - Contact Me: about/contact.md
 
 # Extensions that we want to use
 markdown_extensions:
