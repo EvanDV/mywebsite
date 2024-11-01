@@ -13,23 +13,25 @@ copyright: > # should remain a link to the original theme
 
 theme:
     name: material
+    font:
+      text: Roboto
     palette:
       # Palette toggle for light mode
-      - scheme: default
-        # Color of the top bar
-        primary: deep purple
-        # Link highlight color
-        accent : orange
+      - scheme: slate
+        primary: indigo
+        accent : deep purple
         
         toggle:
-          icon: material/brightness-7 
-          name: Switch to dark mode
+          icon: material/weather-night
+          name: Switch to light mode
 
       # Palette toggle for dark mode
-      - scheme: slate
+      - scheme: default
+        primary: indigo
+        accent : deep purple
         toggle:
-          icon: material/brightness-4
-          name: Switch to light mode
+          icon: material/weather-sunny
+          name: Switch to dark mode
 
     features:
     - navigation.instant # some features may not work properly with XHR
